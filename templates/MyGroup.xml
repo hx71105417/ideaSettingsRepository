@@ -1,0 +1,12 @@
+<templateSet group="MyGroup">
+  <template name="*" value="*&#10; * Title: $name$&#10; * @Description: TODO&#10; * @param: $param$&#10; * @return: $returns$ &#10; * @Author: feiyu&#10; * @Date:  $time$ $date$&#10; */&#10;" description="add command" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
