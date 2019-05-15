@@ -134,6 +134,10 @@
           <option name="url" value="http://192.168.1.10:8181/zhe-jiang/yst-ord-springboot" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.10:8181/vas/yst-vas-fujian" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
