@@ -158,6 +158,10 @@
           <option name="url" value="http://192.168.1.10:8181/trading/vas/yst-vas-jidi" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.10:8181/bei-jing/yst-ord-bj-springboot" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
