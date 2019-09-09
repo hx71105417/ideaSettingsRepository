@@ -166,6 +166,14 @@
           <option name="url" value="http://192.168.1.10:8181/platform/behavior_era" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.10:8181/trading/vas/vas" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.10:8181/trading/vas/vas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
