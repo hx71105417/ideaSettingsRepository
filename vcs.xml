@@ -86,6 +86,10 @@
           <option name="url" value="git@10.10.65.99:BMP/BMP-SD.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@10.10.65.99:BMP/BMP-VIEW.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
